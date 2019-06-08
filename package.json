@@ -1,0 +1,16 @@
+{
+  "name": "manbermyers",
+  "version": "1.0.0",
+  "main": "ManberMyers.js",
+  "scripts": {
+    "test": "mocha -r esm ./script/**/*.spec.js"
+  },
+  "author": "Andrii Dubas",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^6.1.4"
+  }
+}

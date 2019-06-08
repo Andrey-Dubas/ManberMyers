@@ -1,0 +1,4 @@
+# Manber-Myers algorithm
+Manber-Myers is the algorithm for sorting string suffixes in linearithmic time.
+The project is web-application for visualising principle of work of the algorithm.
+Try it online on: https://andrey-dubas.github.io/articles/ManberMyers/animationApp/index.html
